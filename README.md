@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+[I'm an inline-style link](https://www.google.com)
 
 <!--
 **hangga/hangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
