@@ -1,5 +1,7 @@
 ### Hi there 👋
+<a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
 
 <!--
 **hangga/hangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
