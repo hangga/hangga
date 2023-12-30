@@ -1,7 +1,5 @@
 ### Hi there 👋
 - I’m currently working on **Java**, **Kotlin** & **Swift**.
-- I’m currently learning **Jetpack Compose**, **KMP** & **SwiftUI**.
-- I also know Backend Development with **Spring** and **Hibernate**.
 - I also sometimes use **HTML**, **JavaScript** & **CSS**.
 - I also write on personal blogs, **Medium** and **Baeldung**.
 - Btw I use Arch
