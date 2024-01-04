@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I’m currently working on **Java**, **Kotlin** & **Swift**.
-- Sometimes you can also play multiple roles in other languages. No problem, it's fun.
+- Sometimes I can also play multiple roles in other languages. No problem, it's fun.
 - Btw I use Arch for daily use.
 
 <a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
