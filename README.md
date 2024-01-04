@@ -1,8 +1,7 @@
 ### Hi there 👋
 - I’m currently working on **Java**, **Kotlin** & **Swift**.
-- I also sometimes use **HTML**, **JavaScript** & **CSS**.
-- I also write on personal blogs, **Medium** and **Baeldung**.
-- Btw I use Arch
+- Sometimes you can also play multiple roles in other languages. No problem, it's fun.
+- Btw I use Arch for daily use.
 
 <a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
