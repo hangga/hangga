@@ -1,7 +1,8 @@
 ### Hi there 👋
-- I’m currently working on **Java**, **Kotlin** & **Swift**.
-- Sometimes I can also play multiple roles in other languages. No problem, it's fun.
-- Btw I use Arch for daily use.
+|:---:|:---:|
+| I’m currently working on **Java**, **Kotlin** & **Swift**.| |
+| Sometimes I can also play multiple roles in other languages. No problem, it's fun.| |
+| Btw I use Arch for daily use.| |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangga&hide=css,scss&langs_count=10&layout=donut)
 
