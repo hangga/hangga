@@ -6,9 +6,9 @@
 - Sometimes I can also play multiple roles in other languages. No problem, it's fun.
 - Btw I use Arch for daily use.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangga&hide=css,scss,html&langs_count=10&layout=compact&theme=ambient_gradient)
+<img src="https://stats.dooboo.io/api/github-stats?login=hangga&hide=css,scss,html" width="500"/>     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangga&hide=css,scss,html&langs_count=10&layout=compact&theme=ambient_gradient)
 
-<img src="https://stats.dooboo.io/api/github-stats?login=hangga&hide=css,scss,html" width="500"/> 
+
 
 
 
