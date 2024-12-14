@@ -5,7 +5,7 @@
 - I've liked mathematics since junior high school and developed an interest in coding during my undergraduate studies in the Mathematics Department.
 - My first programming languages were Matlab and Pascal, followed by C and C++.
 - I’m currently working on **Java**, **Kotlin**, **Swift** & **Python**.
-- "Sometimes, I also take on multiple roles in other programming languages. No problem—it's fun!"
+- Sometimes, I also take on multiple roles in other programming languages. No problem—it's fun!
 - Btw I use Arch for daily use.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangga&hide=css,scss,html&langs_count=10&layout=compact&theme=ambient_gradient)
