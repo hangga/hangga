@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a target="_blank" href="https://www.baeldung.com/author/hanggaajisayekti"><img src="https://img.shields.io/badge/Baeldung-005C37?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<a target="_blank" href="https://www.baeldung.com/author/hanggaajisayekti"><img src="https://img.shields.io/badge/Baeldung-63B175?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <a target="_blank" href="https://hangga-aji-sayekti.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 
