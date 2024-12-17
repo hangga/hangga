@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 - I've liked mathematics since junior high school and developed an interest in coding during my undergraduate studies in the Mathematics Department.
-- My first programming languages were Matlab and Pascal, followed by C and C++.
+- My first programming languages were **Matlab** and **Pascal**, followed by **C** and **C++**.
 - I’m currently working on **Java**, **Kotlin**, **Swift** & **Python**.
 - Sometimes, I also take on multiple roles in other programming languages. No problem—it's fun!
 - Check out my articles on <a href="https://hangga.github.io/blog/index.html" target="_blank">personal blog</a>, <a href="https://medium.com/@hangga-aji-sayekti" target="_blank">Medium (in Bahasa)</a>, and <a href="https://www.baeldung.com/author/hanggaajisayekti" target="_blank">Baeldung</a>
