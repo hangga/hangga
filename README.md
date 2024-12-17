@@ -1,6 +1,9 @@
 ### Hi there 👋
 <a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a target="_blank" href="https://www.baeldung.com/author/hanggaajisayekti"><img src="https://img.shields.io/badge/Baeldung-005C37?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<a target="_blank" href="https://medium.com/@hanggaajisayekti"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+
 
 - I've liked mathematics since junior high school and developed an interest in coding during my undergraduate studies in the Mathematics Department.
 - My first programming languages were **Matlab** and **Pascal**, followed by **C** and **C++**.
