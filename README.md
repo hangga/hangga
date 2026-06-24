@@ -1,16 +1,5 @@
 ### Hi there 👋
-<a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=black" alt="Hackerrank Badge"/></a>
-<a target="_blank" href="https://www.baeldung.com/author/hanggaajisayekti"><img src="https://img.shields.io/badge/Baeldung-63B175?style=flat&logo=Spring&logoColor=white" alt="Baeldung Badge"/></a>
-<a target="_blank" href="https://hangga-aji-sayekti.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white" alt="Medium Badge"/></a>
-<a target="_blank" href="https://www.google.com/search?q=hangga+aji+sayekti"><img src="https://img.shields.io/badge/Ask%20Google-4285F4?style=flat&logo=Google&logoColor=white" alt="Google Search Badge"/></a>
-
-
-
-<!-- <a target="_blank" href="https://www.linkedin.com/in/hanggaajisayekti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://www.hackerrank.com/bazeniancode"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a target="_blank" href="https://www.baeldung.com/author/hanggaajisayekti"><img src="https://img.shields.io/badge/Baeldung-63B175?style=for-the-badge&logo=Spring&logoColor=white"/></a>
-<a target="_blank" href="https://hangga-aji-sayekti.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a> -->
+<a target="_blank" href="https://hangga.web.id/">hangga.web.id</a>
 
 
 
